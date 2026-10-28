@@ -1,0 +1,8 @@
+node_modules
+dist
+out
+.env
+.git
+*.log
+*.Zone.Identifier
+PRD-*.md
